@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.72.4](https://github.com/serverless/serverless/compare/v2.72.3...v2.72.4) (2022-10-27)
+
+### Maintenance Improvements
+
+- Fix handling of parallel resolution of same variable ([#11286](https://github.com/serverless/serverless/pull/11477))
+
 ### [2.72.3](https://github.com/serverless/serverless/compare/v2.72.2...v2.72.3) (2022-02-22)
 
 ### Maintenance Improvements
